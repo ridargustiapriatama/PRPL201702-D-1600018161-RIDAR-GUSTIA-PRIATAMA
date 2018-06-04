@@ -1,0 +1,22 @@
+a:link {
+		color:white;
+		text-decoration:none;
+	}
+a:hover {
+	color:white;
+	text-decoration:none;
+}
+a:visited {
+	color:white;
+	text-decoration:none;
+}
+td{
+	font-weight:bold;
+	color:white;
+	font-family:Arial;
+	
+}
+
+h2{
+	text-align:center;
+}
